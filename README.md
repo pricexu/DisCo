@@ -1,17 +1,26 @@
 # DisCo
 
 Implementaion of NeurIPS 24 "Discrete-state Continuous-time Diffusion for Graph Generation"
+
 If you have any questions about this repo, feel free to drop an email to zhexu3@illinois.edu
 
 ## Requirements
 We test this implementation for the following core packages:
+
 python 3.9
+
 graph-tool 2.4.5
+
 numpy 1.25.0
+
 pyemd 1.0.0
+
 pytorch 1.13.1
+
 rdkit 2023.9.4
+
 torchmetrics 1.2.1
+
 pyg 2.2.0
 
 ## Commands
@@ -42,4 +51,5 @@ The binary file already in repo works in Ubuntu.
 ## Acknowledgements
 
 DiGress: https://github.com/cvignac/DiGress
+
 tauLDR: https://github.com/andrew-cr/tauLDR
