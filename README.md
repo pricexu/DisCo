@@ -9,7 +9,7 @@ We test this implementation for the following core packages:
 
 python 3.9
 
-graph-tool 2.4.5
+graph-tool 2.45
 
 numpy 1.25.0
 
