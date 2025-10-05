@@ -23,6 +23,10 @@ torchmetrics 1.2.1
 
 pyg 2.2.0
 
+[moses](https://github.com/molecularsets/moses)
+
+[guacamol](https://github.com/BenevolentAI/guacamol)
+
 ## Commands
 
 For sbm, planar, community, and qm9:
